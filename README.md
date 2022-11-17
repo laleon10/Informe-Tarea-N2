@@ -3,42 +3,40 @@ Tarea-N2
 
 #Objetivos generales: 
 
-• Analizar las diferentes formas de resistencia que se pueden dar en un circuito y de esta manera tratar de resolver diferentes problemas.
+ Analizar las diferentes formas de resistencia que se pueden dar en un circuito y de esta manera tratar de resolver diferentes problemas.
 
-• Aplicar correctamente la Ley de Ohm y determinar cuándo se necesita corriente y energía para resolver problemas de circuitos. Específicamente 
+ Aplicar correctamente la Ley de Ohm y determinar cuándo se necesita corriente y energía para resolver problemas de circuitos. Específicamente 
 
-• Aprender a distinguir entre los diferentes tipos de unidades de medida utilizadas en los cálculos ya convertirlas correctamente cuando sea necesario.
+ Aprender a distinguir entre los diferentes tipos de unidades de medida utilizadas en los cálculos ya convertirlas correctamente cuando sea necesario.
 
-• Identificar los diferentes tipos de resistencias que se encuentran en la electrónica y aprender a usarlas correctamente. • Familiarícese con el código de color correcto de las resistencias para identificar los valores, las tolerancias y la confiabilidad de las resistencias.
+ Identificar los diferentes tipos de resistencias que se encuentran en la electrónica y aprender a usarlas correctamente. • Familiarícese con el código de color correcto de las resistencias para identificar los valores, las tolerancias y la confiabilidad de las resistencias.
 
-• Aprender a calcular correctamente la conductividad de un material para comprender su capacidad de flujo de carga. • Correcta aplicación de la ley de Ohm en circuitos de resistencia para poder identificar valores correctos de voltaje, corriente y resistencia.
+ Aprender a calcular correctamente la conductividad de un material para comprender su capacidad de flujo de carga. • Correcta aplicación de la ley de Ohm en circuitos de resistencia para poder identificar valores correctos de voltaje, corriente y resistencia.
 
 #Marco Teorico (Resumen) 
-◆ El voltaje y la corriente son linealmente proporcionales.
+ El voltaje y la corriente son linealmente proporcionales.
 
-◆ La ley de Ohm define la relación entre voltaje, corriente y resistencia. 
+ La ley de Ohm define la relación entre voltaje, corriente y resistencia. La corriente es inversamente proporcional a la resistencia.
 
-◆ La corriente es inversamente proporcional a la resistencia.
+ Mil ohmios (kV) es igual a mil ohmios. 
 
-◆ Mil ohmios (kV) es igual a mil ohmios. 
+Un megaohmio (MV) es igual a un millón de ohmios.
 
-◆ Un megaohmio (MV) es igual a un millón de ohmios.
+ Un microamperio (mA) es una millonésima parte de un amperio.
 
-◆ Un microamperio (mA) es una millonésima parte de un amperio.
+ Un miliamperio (mA) es una milésima parte de un amperio.
 
-◆ Un miliamperio (mA) es una milésima parte de un amperio.
+ La capacidad de una resistencia determina la potencia máxima que puede manejar con seguridad.
 
-◆ La capacidad de una resistencia determina la potencia máxima que puede manejar con seguridad.
+ Los resistores más grandes pueden disipar más corriente como calor que los resistores más pequeños. 
 
-◆ Los resistores más grandes pueden disipar más corriente como calor que los resistores más pequeños. 
+ La potencia nominal de la resistencia debe ser mayor que la potencia máxima esperada en el circuito.
 
-◆ La potencia nominal de la resistencia debe ser mayor que la potencia máxima esperada en el circuito.
+ La potencia nominal no tiene nada que ver con el valor de la resistencia. 
 
-◆ La potencia nominal no tiene nada que ver con el valor de la resistencia. 
+ Las resistencias generalmente se desconectan cuando se sobrecalientan y luego fallan.
 
-◆ Las resistencias generalmente se desconectan cuando se sobrecalientan y luego fallan.
-
-◆ La energía es la capacidad de realizar un trabajo igual a la potencia por el tiempo.
+ La energía es la capacidad de realizar un trabajo igual a la potencia por el tiempo.
 
 #Explicación y Resolución de ejercicios
 
